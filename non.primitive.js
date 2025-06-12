@@ -10,7 +10,7 @@
 //Object can store multuiple types if datatypes
 //In objects we store data in key value pair 
 //Left side is key 
-//tight side is value
+//Right side is value
 
 let person = {
     fname: "rahman",
